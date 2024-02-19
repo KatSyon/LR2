@@ -1,7 +1,7 @@
 # LR2
-Климчук_Воронич
-Катя_Дарья
-Игоревна_Сергеевна
-Спеуиальность: Программное обеспечение
-Дисциплина: "КиАПС"
-Курс 4, группа ПО-4, подгруппа 1
+Klimchuk_Voronich
+Katya_Darya
+Igorevna_Sergeevna
+Speciality: Software
+Discipline: "KiAPS"
+Course 4, PO-4 group, subgroup 1
